@@ -1,0 +1,21 @@
+# ninja log v5
+0	64	7295983665731544	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	80e905a04f582815
+0	64	7295983665731544	D:/Projects/sem4/гойц/lab3/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	80e905a04f582815
+65	7816	7295983743257831	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	2da3baa0edfb4d95
+65	7816	7295983743257831	D:/Projects/sem4/гойц/lab3/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	2da3baa0edfb4d95
+7817	7869	7295983743779147	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	ba89d4bb0cb80f94
+7817	7869	7295983743779147	D:/Projects/sem4/гойц/lab3/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	ba89d4bb0cb80f94
+7870	7922	7295983744306651	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	1d5124f592a30d27
+7870	7922	7295983744306651	D:/Projects/sem4/гойц/lab3/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	1d5124f592a30d27
+7922	7973	7295983744816465	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	612546ca4093d57d
+7922	7973	7295983744816465	D:/Projects/sem4/гойц/lab3/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	612546ca4093d57d
+7973	8035	7295983745376106	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	1c6a7e90b36b6518
+7973	8035	7295983745376106	D:/Projects/sem4/гойц/lab3/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	1c6a7e90b36b6518
+8035	8100	7295983746080766	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	5e96770ded90c5dd
+8035	8100	7295983746080766	D:/Projects/sem4/гойц/lab3/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	5e96770ded90c5dd
+8100	8153	7295983746609715	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	444690649c3f5066
+8100	8153	7295983746609715	D:/Projects/sem4/гойц/lab3/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	444690649c3f5066
+8153	8223	7295983747317089	CMakeFiles/raylib-populate-complete	30f393186c7709c6
+8153	8223	7295983747317089	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	30f393186c7709c6
+8153	8223	7295983747317089	D:/Projects/sem4/гойц/lab3/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	30f393186c7709c6
+8153	8223	7295983747317089	D:/Projects/sem4/гойц/lab3/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	30f393186c7709c6
